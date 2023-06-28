@@ -3,7 +3,7 @@ module.exports = {
 	theme: {
 		fontFamily: {
 			display: ['Hind', 'monospace'],
-			// sans: ['Inter', 'sans-serif'],
+			sans: ['Palanquin', 'sans-serif'],
 			mono: ['monospace']
 		},
 		extend: {

@@ -6,6 +6,15 @@
 		url('$lib/assets/fonts/Hind-SemiBold.ttf');
 }
 
+@font-face {
+	font-family: 'Palanquin';
+	font-display: swap;
+	src: url('$lib/assets/fonts/Palanquin-Bold.ttf'),
+		url('$lib/assets/fonts/Palanquin-ExtraLight.ttf'), url('$lib/assets/fonts/Palanquin-Light.ttf'),
+		url('$lib/assets/fonts/Palanquin-Medium.ttf'), url('$lib/assets/fonts/Palanquin-Regular.ttf'),
+		url('$lib/assets/fonts/Palanquin-SemiBold.ttf'), url('$lib/assets/fonts/Palanquin-Thin.ttf');
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
