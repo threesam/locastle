@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Hind';
+	font-display: swap;
+	src: url('$lib/assets/fonts/Hind-Bold.ttf'), url('$lib/assets/fonts/Hind-Light.ttf'),
+		url('$lib/assets/fonts/Hind-Medium.ttf'), url('$lib/assets/fonts/Hind-Regular.ttf'),
+		url('$lib/assets/fonts/Hind-SemiBold.ttf');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

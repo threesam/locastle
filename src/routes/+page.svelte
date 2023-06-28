@@ -1,2 +1,3 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<section class="flex h-screen w-full items-center justify-center bg-black font-display text-3xl">
+	<h1 class="text-white">locastle</h1>
+</section>
